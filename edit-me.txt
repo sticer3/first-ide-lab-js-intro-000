@@ -1,1 +1,1 @@
-learn open first-ide-lab
+Hello, World!
